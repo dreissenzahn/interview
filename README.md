@@ -1,3 +1,3 @@
-# LeetCode
+# Interview
 
-Solutions to [LeetCode](leetcode.com).
+Interview preparation.
